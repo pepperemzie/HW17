@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../HTMLBIH"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTMLBIH"
+	}
+}
